@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:project_ti/config/asset.dart';
+import 'package:lampungbeauty/config/asset.dart';
 
 class Login1 extends StatefulWidget {
   const Login1({super.key});

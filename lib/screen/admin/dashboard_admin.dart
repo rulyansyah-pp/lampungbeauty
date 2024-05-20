@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
-import 'package:project_ti/config/asset.dart';
-import 'package:project_ti/screen/admin/home_screen.dart';
+import 'package:lampungbeauty/config/asset.dart';
+import 'package:lampungbeauty/screen/admin/home_screen.dart';
 
 class DashboardAdmin extends StatefulWidget {
   const DashboardAdmin({super.key});

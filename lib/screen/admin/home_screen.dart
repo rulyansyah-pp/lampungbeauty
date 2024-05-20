@@ -1,7 +1,7 @@
 import 'package:carousel_slider/carousel_slider.dart';
 import 'package:flutter/material.dart';
-import 'package:project_ti/config/asset.dart';
-import 'package:project_ti/screen/admin/list_mahasiswa.dart';
+import 'package:lampungbeauty/config/asset.dart';
+import 'package:lampungbeauty/screen/admin/list_mahasiswa.dart';
 
 class HomeScreen extends StatefulWidget {
   const HomeScreen({super.key});

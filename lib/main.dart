@@ -1,9 +1,9 @@
 import 'package:flutter/material.dart';
 import 'package:get/get.dart';
-import 'package:project_ti/config/asset.dart';
-import 'package:project_ti/screen/admin/dashboard_admin.dart';
-import 'package:project_ti/screen/login.dart';
-import 'package:project_ti/screen/login1.dart';
+import 'package:lampungbeauty/config/asset.dart';
+import 'package:lampungbeauty/screen/admin/dashboard_admin.dart';
+import 'package:lampungbeauty/screen/login.dart';
+import 'package:lampungbeauty/screen/login1.dart';
 
 void main() {
   runApp(const MyApp());

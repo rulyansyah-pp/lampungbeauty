@@ -2,7 +2,7 @@
 // import 'dart:js_interop';
 
 import 'package:flutter/material.dart';
-import 'package:project_ti/config/asset.dart';
+import 'package:lampungbeauty/config/asset.dart';
 
 class ListMahasiswa extends StatefulWidget {
   const ListMahasiswa({super.key});
